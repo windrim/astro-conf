@@ -7,7 +7,7 @@ return {
     { import = "astrocommunity.colorscheme.gruvbox-nvim" },
     { import = "astrocommunity.colorscheme.tokyonight-nvim" },
     { import = "astrocommunity.pack.python" },
-    { import = "astrocommunity.pack.lua" },
+    "christoomey/vim-tmux-navigator",
   },
   colorscheme = "everforest",
 }
