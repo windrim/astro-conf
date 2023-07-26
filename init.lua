@@ -14,5 +14,5 @@ return {
     "blazkowolf/gruber-darker.nvim",
     "ayu-theme/ayu-vim",
   },
-  colorscheme = "everforest",
+  colorscheme = "gruber-darker",
 }
