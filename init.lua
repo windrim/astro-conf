@@ -1,9 +1,9 @@
 return {
   plugins = {
-    -- community: python/go pack(s)
+    -- community: python/rust pack(s)
     "AstroNvim/astrocommunity",
     { import = "astrocommunity.pack.python" },
-    { import = "astrocommunity.pack.go" },
+    { import = "astrocommunity.pack.rust" },
     -- functional
     "christoomey/vim-tmux-navigator",
     -- colors
