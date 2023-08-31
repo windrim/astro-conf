@@ -8,6 +8,7 @@ return {
     "christoomey/vim-tmux-navigator",
     -- colors
     "blazkowolf/gruber-darker.nvim",
+    "lourenci/github-colors",
   },
   colorscheme = "gruber-darker",
 }
