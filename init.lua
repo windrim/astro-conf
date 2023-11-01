@@ -3,7 +3,6 @@ return {
     -- community: python/rust pack(s)
     "AstroNvim/astrocommunity",
     { import = "astrocommunity.pack.python" },
-    { import = "astrocommunity.pack.rust" },
     -- functional
     "christoomey/vim-tmux-navigator",
     -- colors
