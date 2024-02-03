@@ -5,7 +5,7 @@ return {
     { import = "astrocommunity.pack.python-ruff" },
     { import = "astrocommunity.motion.leap-nvim" },
     -- colors
-    "blazkowolf/gruber-darker.nvim",
+    "windrim/gruber-darker-better",
   },
   colorscheme = "gruber-darker",
 }
