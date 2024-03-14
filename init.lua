@@ -1,9 +1,8 @@
 return {
   plugins = {
-    -- community: python/rust pack(s)
-    "AstroNvim/astrocommunity",
-    { import = "astrocommunity.pack.python-ruff" },
-    { import = "astrocommunity.motion.leap-nvim" },
+    -- updated python pack
+    "windrim/astrocommunity",
+    { import = "astrocommunity.pack.python-pylsp" },
     -- colors
     "windrim/gruber-darker-better",
   },
