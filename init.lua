@@ -1,8 +1,8 @@
 return {
   plugins = {
     -- updated python pack
-    "windrim/astrocommunity",
-    { import = "astrocommunity.pack.python-pylsp" },
+    "AstroNvim/astrocommunity",
+    { import = "astrocommunity.pack.python-ruff" },
     -- colors
     "windrim/gruber-darker-better",
   },
