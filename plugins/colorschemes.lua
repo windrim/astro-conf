@@ -5,5 +5,8 @@ return {
     opts = {
       contrast = "hard",
     }
+  },
+  {
+    "shaunsingh/nord.nvim"
   }
 }
